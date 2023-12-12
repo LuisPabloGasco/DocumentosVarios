@@ -3,7 +3,7 @@ Informacion a partir del Viernes 24/11/23
 
 
 ********** CASA ********** 
-1 cajon Fernet con: 22 botellas
+1 cajon Fernet con: 18 botellas
 
 1 cajon Fernet con: 24 botellas
 1 cajon Fernet con: 24 botellas
@@ -41,12 +41,12 @@ Informacion a partir del Viernes 24/11/23
 1 cajon con:
 	9 red label
 	5 doble black
-	2 jager
+	1 jager
 	3 vodkas
 	
 en el piso:
 	6 ballantine (5 con estuche 1 sin estuche)
-	5 velho barreiro
+	4 velho barreiro
 	
 	
 
@@ -57,7 +57,7 @@ en el piso:
 **************************
 
 ________________________________________________________________
-Pedido armado en casa (ya esta descontado del global de casa)
+
 
 
 _________________________________________________________________
@@ -92,10 +92,10 @@ Total $ 59.680
 
 Entregas 
 04/12/23 $ 20.000
-8/12/23 $ 20.000
+08/12/23 $ 20.000
 
 
-debe 3.050 de ML ()
+
 
 
 *****************************
