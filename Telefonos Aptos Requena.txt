@@ -1,6 +1,6 @@
 ________________________________________
-Dueno Apto 2: 
-Tel XXXX
+Dueno Apto 2: Rafael
+Tel 099 434 435
 
 Inquilino Apto 2:
 Tel XXX 
@@ -8,8 +8,8 @@ ________________________________________
 
 
 ________________________________________
-Dueno Apto 3: 
-Tel XXXX
+Dueno Apto 3: Laura 
+Tel 097 552 625
 
 Inquilino Apto 3:
 Tel XXX 
@@ -205,7 +205,7 @@ Presupuesto total le sale 36.300
 
 
 
-1830 2030
+
 
 
 
