@@ -6,9 +6,6 @@ Cesar Ruiz se llevo 24 botellas fernet x 450 = debe 10.800
 
 ********** CASA ********** 
 
-
-
-1 cajon Fernet con: 7 botellas
 1 cajon Fernet con: 24 botellas
 
 
@@ -41,7 +38,7 @@ Cesar Ruiz se llevo 24 botellas fernet x 450 = debe 10.800
 	2 velho barreiro
 	
 1 cajon con:
-	5 red label
+	4 red label
 	5 doble black
 	1 jager
 	3 vodkas
