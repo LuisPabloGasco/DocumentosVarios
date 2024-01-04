@@ -6,7 +6,7 @@ Cesar Ruiz se llevo 24 botellas fernet x 450 = debe 10.800
 
 ********** CASA ********** 
 
-1 cajon Fernet con: 24 botellas
+1 cajon Fernet con: 23 botellas
 
 
 1 cajon Fernet con: 24 botellas cada cajon
@@ -96,11 +96,13 @@ ya estan pagos por itau
 Devoluciones Botellas
 
 2/1/24 lulu devolvio 
-8 fernet (ya descontado del global)
+8 fernet 
+(ya descontado del global)
 
 3/1/23 lulu devolvio
-7 fernet + 
+8 fernet + 
 1 red label
+(ya descontado del global)
 
 
 
