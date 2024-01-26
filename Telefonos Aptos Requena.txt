@@ -34,6 +34,12 @@ Tel XXXX
 Inquilino Apto 4:
 Tel XXX 
 
+
+Medidor UTE: 
+Titular UTE: 
+BJ003
+
+
 pago 3.025 por la reja
 pago 400 por 1 juego llave (todo x transferencia itau)
 ya tiene la llave
@@ -47,9 +53,17 @@ Tel 091 270 847
 Inquilino Apto 5:
 Tel XXX 
 
+Medidor UTE: 358771
+Titular UTE: Gladys Mabel Berrueta Damestoy 
+BJ004
+
+
+
 nestor quiere 1 juego y que se lo deje a clara
 hizo deposito brou de 5.400 por la reja y 1 juego llave
 tengo que dejarle el juego de lalve con clara aun
+
+
 ________________________________________
 
 
@@ -61,16 +75,26 @@ Inquilino Apto 6:
 Tel XXX 
 
 
+Medidor UTE: 26296263
+Titular UTE: Rubi Abigail Lugo Valdivieso
+BJ005
+
+
 inquilinos pagaron 400 un juego (ya tienen la llave)
+Manuela para pagar la reja quiere hablar personalmente conmigo
 ________________________________________
 
 
 ________________________________________
-Dueno Apto 7: 
+Dueno Apto 7: Tato
 Tel XXXX
 
 Inquilino Apto 7:
 Tel XXX 
+
+Medidor UTE: 313532
+Titular UTE: Rosaria Eleana Fernandez Chaves
+BJ006
 ________________________________________
 
 
@@ -93,6 +117,13 @@ Tel 095 290 001
 Inquilino Apto 9: Graciela 
 092 331 134
 
+
+Medidor UTE: 810308161
+Titular UTE: Graciela Marino Guelmo 
+BJ008
+
+
+
 22/1/24 me dio 400 para 1 juego llaves 
 laura la dueña quiere 1 juego me paga martes cuando venga de mañana
 laura pago 4.800 por la reja.
@@ -106,6 +137,12 @@ Tel  - 099 734 174
 
 Inquilino Apto 10:
 Tel XXX 
+
+Medidor UTE: 
+Titular UTE: 
+BJ009
+
+
 
 22/1/24 Me dio 800 para 2 juegos llaves
 ________________________________________
@@ -127,7 +164,13 @@ Tel XXXX
 Inquilino Apto 12:
 Tel XXX 
 
+Medidor UTE: 
+Titular UTE: 
+BJ011
+
+
 22/1/24 Daniel me dio 800 para 2 juegos llave
+daniel me dijo que cobraba el 3/4 y que pagaba la reja
 ________________________________________
 
 
@@ -140,6 +183,8 @@ Tel XXX
 
 
 22/1/24 me dio 400 graciela para 1 juego llave
+24/1/24 Milton transfirio x brou $2.000 y me dijo que cuando cobre transfiere el resto de la reja
+
 ________________________________________
 
 

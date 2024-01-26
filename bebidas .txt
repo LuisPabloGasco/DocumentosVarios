@@ -31,7 +31,7 @@ me traje 2 aperol (400 c/u)
 	1 caja con 6 botellas de jaguer (lleve brasilero 21/1/24)
 	1 caja con 6 botellas de jaguer (Lleve brasilero 22/1/24)
 	1 caja con 6 botellas de jaguer (Lleve brasilero 22/1/24)
-1 caja con 6 botellas de jaguer
+	1 caja con 6 botellas de jaguer (Lleve brasilero 24/1/24)
 1 caja con 6 botellas de jaguer
 1 caja con 6 botellas de jaguer
 
@@ -40,7 +40,7 @@ me traje 2 aperol (400 c/u)
 		
 1 cajon con:	
 	4 amarula
-	2 velho barreiro
+	4 velho barreiro
 	
 1 cajon con:
 	3 red label
@@ -50,7 +50,7 @@ me traje 2 aperol (400 c/u)
 	
 en el piso:
 	6 ballantine (5 con estuche 1 sin estuche)
-	4 velho barreiro
+	
 	
 	
 
